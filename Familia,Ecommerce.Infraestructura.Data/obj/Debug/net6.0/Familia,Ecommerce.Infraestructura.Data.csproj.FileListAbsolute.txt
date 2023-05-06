@@ -1,0 +1,15 @@
+D:\Curso\ProyectosNET\Familia.Ecommerce\Familia,Ecommerce.Infraestructura.Data\bin\Debug\net6.0\Familia,Ecommerce.Infraestructura.Data.deps.json
+D:\Curso\ProyectosNET\Familia.Ecommerce\Familia,Ecommerce.Infraestructura.Data\bin\Debug\net6.0\Familia,Ecommerce.Infraestructura.Data.dll
+D:\Curso\ProyectosNET\Familia.Ecommerce\Familia,Ecommerce.Infraestructura.Data\bin\Debug\net6.0\Familia,Ecommerce.Infraestructura.Data.pdb
+D:\Curso\ProyectosNET\Familia.Ecommerce\Familia,Ecommerce.Infraestructura.Data\bin\Debug\net6.0\Familia.Ecommerce.Transversal.Common.dll
+D:\Curso\ProyectosNET\Familia.Ecommerce\Familia,Ecommerce.Infraestructura.Data\bin\Debug\net6.0\Familia.Ecommerce.Transversal.Common.pdb
+D:\Curso\ProyectosNET\Familia.Ecommerce\Familia,Ecommerce.Infraestructura.Data\obj\Debug\net6.0\Familia,Ecommerce.Infraestructura.Data.csproj.AssemblyReference.cache
+D:\Curso\ProyectosNET\Familia.Ecommerce\Familia,Ecommerce.Infraestructura.Data\obj\Debug\net6.0\Familia,Ecommerce.Infraestructura.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\ProyectosNET\Familia.Ecommerce\Familia,Ecommerce.Infraestructura.Data\obj\Debug\net6.0\Familia,Ecommerce.Infraestructura.Data.AssemblyInfoInputs.cache
+D:\Curso\ProyectosNET\Familia.Ecommerce\Familia,Ecommerce.Infraestructura.Data\obj\Debug\net6.0\Familia,Ecommerce.Infraestructura.Data.AssemblyInfo.cs
+D:\Curso\ProyectosNET\Familia.Ecommerce\Familia,Ecommerce.Infraestructura.Data\obj\Debug\net6.0\Familia,Ecommerce.Infraestructura.Data.csproj.CoreCompileInputs.cache
+D:\Curso\ProyectosNET\Familia.Ecommerce\Familia,Ecommerce.Infraestructura.Data\obj\Debug\net6.0\Familia,Ecommerce.Infraestructura.Data.csproj.CopyComplete
+D:\Curso\ProyectosNET\Familia.Ecommerce\Familia,Ecommerce.Infraestructura.Data\obj\Debug\net6.0\Familia,Ecommerce.Infraestructura.Data.dll
+D:\Curso\ProyectosNET\Familia.Ecommerce\Familia,Ecommerce.Infraestructura.Data\obj\Debug\net6.0\refint\Familia,Ecommerce.Infraestructura.Data.dll
+D:\Curso\ProyectosNET\Familia.Ecommerce\Familia,Ecommerce.Infraestructura.Data\obj\Debug\net6.0\Familia,Ecommerce.Infraestructura.Data.pdb
+D:\Curso\ProyectosNET\Familia.Ecommerce\Familia,Ecommerce.Infraestructura.Data\obj\Debug\net6.0\ref\Familia,Ecommerce.Infraestructura.Data.dll

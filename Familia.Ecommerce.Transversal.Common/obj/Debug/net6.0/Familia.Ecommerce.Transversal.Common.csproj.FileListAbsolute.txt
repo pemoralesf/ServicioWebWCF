@@ -1,0 +1,12 @@
+D:\Curso\ProyectosNET\Familia.Ecommerce\Familia.Ecommerce.Transversal.Common\bin\Debug\net6.0\Familia.Ecommerce.Transversal.Common.deps.json
+D:\Curso\ProyectosNET\Familia.Ecommerce\Familia.Ecommerce.Transversal.Common\bin\Debug\net6.0\Familia.Ecommerce.Transversal.Common.dll
+D:\Curso\ProyectosNET\Familia.Ecommerce\Familia.Ecommerce.Transversal.Common\bin\Debug\net6.0\Familia.Ecommerce.Transversal.Common.pdb
+D:\Curso\ProyectosNET\Familia.Ecommerce\Familia.Ecommerce.Transversal.Common\obj\Debug\net6.0\Familia.Ecommerce.Transversal.Common.csproj.AssemblyReference.cache
+D:\Curso\ProyectosNET\Familia.Ecommerce\Familia.Ecommerce.Transversal.Common\obj\Debug\net6.0\Familia.Ecommerce.Transversal.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso\ProyectosNET\Familia.Ecommerce\Familia.Ecommerce.Transversal.Common\obj\Debug\net6.0\Familia.Ecommerce.Transversal.Common.AssemblyInfoInputs.cache
+D:\Curso\ProyectosNET\Familia.Ecommerce\Familia.Ecommerce.Transversal.Common\obj\Debug\net6.0\Familia.Ecommerce.Transversal.Common.AssemblyInfo.cs
+D:\Curso\ProyectosNET\Familia.Ecommerce\Familia.Ecommerce.Transversal.Common\obj\Debug\net6.0\Familia.Ecommerce.Transversal.Common.csproj.CoreCompileInputs.cache
+D:\Curso\ProyectosNET\Familia.Ecommerce\Familia.Ecommerce.Transversal.Common\obj\Debug\net6.0\Familia.Ecommerce.Transversal.Common.dll
+D:\Curso\ProyectosNET\Familia.Ecommerce\Familia.Ecommerce.Transversal.Common\obj\Debug\net6.0\refint\Familia.Ecommerce.Transversal.Common.dll
+D:\Curso\ProyectosNET\Familia.Ecommerce\Familia.Ecommerce.Transversal.Common\obj\Debug\net6.0\Familia.Ecommerce.Transversal.Common.pdb
+D:\Curso\ProyectosNET\Familia.Ecommerce\Familia.Ecommerce.Transversal.Common\obj\Debug\net6.0\ref\Familia.Ecommerce.Transversal.Common.dll

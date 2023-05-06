@@ -1,0 +1,98 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Familia.Ecommerce.Domain.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Familia.Ecommerce.Domain.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Familia.Ecommerce.Domain.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Familia.Ecommerce.Domain.Entity/1.0.0": {
+      "type": "project",
+      "path": "../Familia.Ecommerce.Domain.Entity/Familia.Ecommerce.Domain.Entity.csproj",
+      "msbuildProject": "../Familia.Ecommerce.Domain.Entity/Familia.Ecommerce.Domain.Entity.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Familia.Ecommerce.Domain.Entity >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\HP\\.nuget\\packages\\": {},
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Curso\\ProyectosNET\\Familia.Ecommerce\\Familia.Ecommerce.Infraestructure.Interface\\Familia.Ecommerce.Infraestructure.Interface.csproj",
+      "projectName": "Familia.Ecommerce.Infraestructure.Interface",
+      "projectPath": "D:\\Curso\\ProyectosNET\\Familia.Ecommerce\\Familia.Ecommerce.Infraestructure.Interface\\Familia.Ecommerce.Infraestructure.Interface.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "D:\\Curso\\ProyectosNET\\Familia.Ecommerce\\Familia.Ecommerce.Infraestructure.Interface\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Curso\\ProyectosNET\\Familia.Ecommerce\\Familia.Ecommerce.Domain.Entity\\Familia.Ecommerce.Domain.Entity.csproj": {
+              "projectPath": "D:\\Curso\\ProyectosNET\\Familia.Ecommerce\\Familia.Ecommerce.Domain.Entity\\Familia.Ecommerce.Domain.Entity.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
